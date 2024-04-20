@@ -1,0 +1,134 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #ffffff, #cffcf1);
+  min-height: 100vh;
+}
+.digital-timer-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 34px;
+  font-weight: 600;
+  text-align: center;
+}
+.timer-container {
+  display: flex;
+  flex-direction: column;
+}
+.timer-bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.timer-display-container {
+  position: absolute;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  padding: 15px;
+  border-radius: 70px;
+}
+.bg-image {
+  width: 300px;
+  position: relative;
+}
+.timer-display {
+  color: #00d9f5;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0px;
+}
+.running-status-text {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0px;
+}
+.timer-controls-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.play-reset-container {
+  display: flex;
+  margin-bottom: 22px;
+}
+.control-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.controls-text {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 500;
+}
+.play-pause-reset-img {
+  width: 28px;
+  height: 28px;
+  margin-right: 5px;
+}
+.play-pause-reset-button {
+  border: none;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 500;
+}
+.set-timer-limit-text {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+}
+.timer-limit-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+}
+.plus-minus-btn {
+  border: none;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+  align-self: center;
+}
+.incre-decre-sign {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 36px;
+  font-weight: 600;
+}
+.timer-limit-num {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 500;
+  background-image: linear-gradient(to right, #cffcf1, #00d9f5);
+  padding: 8px 20px;
+  border-radius: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
