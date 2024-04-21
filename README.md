@@ -136,7 +136,6 @@ Use these files to complete the implementation:
 <div style="background-color: #1e293b ; width: 150px; padding: 10px; color: white">Hex: #1e293b</div>
 <div style="background-color: #0f172a ; width: 150px; padding: 10px; color: white">Hex: #0f172a</div>
 <div style="background-color: #defafe ; width: 150px; padding: 10px; color: black">Hex: #defafe</div>
-<div style="background-color: #00d9f5 ; width: 150px; padding: 10px; color: white">Hex: #00d9f5</div>
 
 </details>
 
