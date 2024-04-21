@@ -132,7 +132,6 @@ Use these files to complete the implementation:
 <br/>
 
 <div style="background-color: #ffffff ; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
-<div style="background-color: #cffcf1 ; width: 150px; padding: 10px; color: black">Hex: #cffcf1</div>
 
 </details>
 
